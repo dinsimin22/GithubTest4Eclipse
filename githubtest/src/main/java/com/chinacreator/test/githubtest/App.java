@@ -1,13 +1,13 @@
 package com.chinacreator.test.githubtest;
 
 /**
- * Hello world version 0.2 !
+ * Hello world version 0.3 !
  *
  */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Second Hello World!" );
+        System.out.println( "3rd Hello World!" );
     }
 }
